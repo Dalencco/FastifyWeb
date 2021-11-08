@@ -16,3 +16,7 @@
 
   - `CSS Files`
 ---
+
+- **Support**
+
+  - `You can upload it to a host like for example heroku`
